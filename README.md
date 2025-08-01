@@ -57,7 +57,7 @@ lib/
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/spidrox_reg.git
+git clone https://github.com/Shreyasbhat03/spidrox_reg.git
 cd spidrox_reg
 ````
 
